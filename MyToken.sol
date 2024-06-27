@@ -18,8 +18,8 @@ pragma solidity >=0.6.12 <0.9.0;
 contract MyToken {
 
     // public variables here
-    string public name = "TokenName";
-    string public symbol = "TKN";
+    string public name = "Metacraft";
+    string public symbol = "MTC";
     uint256 public totalSupply = 0;
     
     // mapping variable here
